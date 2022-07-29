@@ -5,7 +5,7 @@
 
 - 📝 I regularly write articles on [https://mukhtharcm.com](https://mukhtharcm.com)
 
-- 💬 Ask me about **Flutter, Svelte, Firebase...**
+- 💬 Ask me about **Flutter, Svelte, Astro, Firebase...**
 
 - 📫 How to reach me **mukhtharcm@gmail.com**
 
