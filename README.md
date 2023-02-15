@@ -11,11 +11,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Getting Started with Dart Edge and Cloudflare Workers](https://mukhtharcm.com/getting-started-with-cloudflare-workers-dart-edge/)
 - [Error Pages in Sveltekit](https://mukhtharcm.com/error-pages-sveltekit/)
 - [Setup Tailwind CSS in Astro](https://mukhtharcm.com/astro-tailwind-setup/)
 - [Zoom Image on Hover in Tailwind CSS](https://mukhtharcm.com/zoom-image-hover-tailwind-css/)
 - [Bearer Token Authentication in Flutter](https://mukhtharcm.com/flutter-bearer-token-authentication/)
-- [Quickly Install Appwrite on Digital Ocean](https://mukhtharcm.com/quickly-install-appwrite-digital-ocean/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
